@@ -1,1 +1,1 @@
-# newskcd
+# skcd.site
